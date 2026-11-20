@@ -1,103 +1,194 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:30106B,100:0077B6&height=220&section=header&text=NISHANT%20CHAUHAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Explorer&descAlignY=55&descSize=17" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+%26+DSA+Enthusiast;Backend+Developer+in+Progress;Exploring+AI+%2F+ML;Building+Cool+Things+with+Code" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050505,40:101B35,75:35106A,100:00C8FF&text=NISHANT%20CHAUHAN&fontSize=55&fontColor=FFFFFF&stroke=00D9FF&strokeWidth=1&animation=twinkling&fontAlignY=45&desc=BUILDING%20THE%20FUTURE%20ONE%20COMMIT%20AT%20A%20TIME&descSize=13&descAlignY=65"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Java+Developer+%7C+Problem+Solver;DSA+Enthusiast+%7C+Backend+Explorer;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Real+Projects;Always+Learning.+Always+Building." />
+
+<br/><br/>
+
 <a href="https://github.com/nishant73910-cell">
-<img src="https://komarev.com/ghpvc/?username=nishant73910-cell&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/nishant-chauhan-111094381/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="https://leetcode.com/u/NISHANT_CHAUHAN_001/">
+<img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=nishant73910-cell&label=PROFILE%20VISITORS&color=00D9FF&style=flat-square"/>
+
+</div>
+
+---
+
+<h2 align="center">◈ WHO AM I?</h2>
+
+<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```java
+public class Nishant {
+
+    String name = "Nishant Chauhan";
+    String education = "B.Tech CSE @ KIET";
+    String primaryLanguage = "Java";
+
+    String[] interests = {
+        "Data Structures & Algorithms",
+        "Backend Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Software Engineering"
+    };
+
+    String currentFocus =
+        "Building projects & improving every day";
+
+    void mindset() {
+        System.out.println("Think. Code. Create. Repeat.");
+    }
+}
+```
+
+<br clear="right"/>
+
+I'm a Computer Science student who loves turning complex problems into simple solutions.
+
+I enjoy competitive programming, exploring new technologies, experimenting with ideas and building things that actually work.
+
+**My philosophy:** Never stop learning. Never stop building.
+
+---
+
+<h2 align="center">◈ MY TECH UNIVERSE</h2>
+
+<div align="center">
+
+### LANGUAGES
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark"/>
+
+### BACKEND & DATABASE
+<img src="https://skillicons.dev/icons?i=spring,mysql&theme=dark"/>
+
+### TOOLS & DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,html,css&theme=dark"/>
+
+</div>
+
+---
+
+<h2 align="center">◈ GITHUB PERFORMANCE</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nishant73910-cell&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=9D7BFF&text_color=FFFFFF&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant73910-cell&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=nishant73910-cell&hide_border=true&background=0D1117&ring=00D9FF&fire=9D7BFF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888"/>
+
+</div>
+
+---
+
+<h2 align="center">◈ THE PROBLEM SOLVING ZONE</h2>
+
+<div align="center">
+
+<img width="90%" src="https://leetcard.jacoblin.cool/NISHANT_CHAUHAN_001?theme=dark&font=Fira%20Code&ext=heatmap"/>
+
+<br/>
+
+<a href="https://leetcode.com/u/NISHANT_CHAUHAN_001/">
+<img src="https://img.shields.io/badge/EXPLORE_MY_LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">◈ SELECTED PROJECTS</h2>
 
-- 🎓 B.Tech CSE Student at **KIET Group of Institutions**
-- 💻 Interested in Java, Data Structures & Algorithms
-- 🚀 Exploring Backend Development with Spring Boot
-- 🤖 Learning AI/ML and Python
-- 🧠 Love solving problems and building real-world projects
-- 🎯 Focused on becoming a better developer every day
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>⚔️ LeetBattle</h3>
+
+A Spring Boot-powered platform to compare LeetCode performance and make problem solving competitive.
+
+**Stack:** Java · Spring Boot · HTML · CSS · JavaScript
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🩺 Diabetes Risk Predictor</h3>
+
+An ML-based risk assessment dashboard with a user-friendly Streamlit interface.
+
+**Stack:** Python · Machine Learning · Streamlit
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>⛏️ MineGuard</h3>
+
+An IoT-based mine vehicle safety concept for fog and low-visibility environments.
+
+**Stack:** ESP32 · Sensors · GPS · IoT
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚀 More Coming Soon</h3>
+
+Always experimenting with new ideas, technologies and projects.
+
+**Status:** Building in progress.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Tech Stack
+<h2 align="center">◈ MY CONTRIBUTION MATRIX</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,html,css,js,git,github,vscode,arduino&theme=dark" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishant73910-cell&bg_color=0D1117&color=00D9FF&line=9D7BFF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nishant73910-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant73910-cell&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=nishant73910-cell&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/NISHANT_CHAUHAN_001?theme=dark&font=Fira%20Code&ext=heatmap" width="95%"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| ⚔️ LeetBattle | Spring Boot-based LeetCode comparison platform |
-| 🩺 Diabetes Predictor | ML-powered diabetes risk assessment dashboard using Streamlit |
-| ⛏️ MineGuard | Smart safety system for mine vehicles in foggy conditions |
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishant73910-cell&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
+<h2 align="center">◈ CONNECT WITH ME</h2>
 
 <div align="center">
 
 <a href="https://github.com/nishant73910-cell">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/nishant-chauhan-111094381/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/NISHANT_CHAUHAN_001/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+**"Great things are built one line of code at a time."**
 
-### 💫 "Code. Learn. Build. Repeat."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:30106B,100:090014&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,50:35106A,100:050505&height=130&section=footer"/>
 
 </div>
